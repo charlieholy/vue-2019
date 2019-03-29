@@ -1,9 +1,10 @@
 import Vue from 'vue'
 import App from './app.vue'
 
-import './asset/styles/test.css'
-import './asset/images/bg.jpg'
-import './asset/styles/test-stylus.styl'
+// import './asset/styles/test.css'
+// import './asset/images/bg.jpg'
+// import './asset/styles/test-stylus.styl'
+import './asset/styles/global.styl'
 
 const root = document.createElement('div')
 document.body.appendChild(root)
